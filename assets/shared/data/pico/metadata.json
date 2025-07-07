@@ -4,6 +4,8 @@
 	"freeplayCharacter": "",
 	"freeplaySongLength": 84.870839,
 	"freeplayPrevEnd": 20,
-	"altInstrumentalSongs": "Pico (Pico Mix)",
-	"freeplayPrevStart": 0
+	"altInstrumentalSongs": "pico (Pico Mix)",
+	"allowErectVariants": true,
+	"freeplayPrevStart": 0,
+	"freeplayWeekName": "bico"
 }
